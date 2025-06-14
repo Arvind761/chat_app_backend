@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\@2025\\Project\\chatApp\\ChatApp.Server\\ChatApp.Server.csproj": {}
+    "D:\\@2025\\Project\\chatApp\\chatapp.server\\ChatApp.Server.csproj": {}
   },
   "projects": {
-    "D:\\@2025\\Project\\chatApp\\ChatApp.Server\\ChatApp.Server.csproj": {
+    "D:\\@2025\\Project\\chatApp\\chatapp.server\\ChatApp.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\@2025\\Project\\chatApp\\ChatApp.Server\\ChatApp.Server.csproj",
+        "projectUniqueName": "D:\\@2025\\Project\\chatApp\\chatapp.server\\ChatApp.Server.csproj",
         "projectName": "ChatApp.Server",
-        "projectPath": "D:\\@2025\\Project\\chatApp\\ChatApp.Server\\ChatApp.Server.csproj",
+        "projectPath": "D:\\@2025\\Project\\chatApp\\chatapp.server\\ChatApp.Server.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\@2025\\Project\\chatApp\\ChatApp.Server\\obj\\",
+        "outputPath": "D:\\@2025\\Project\\chatApp\\chatapp.server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,11 +53,11 @@
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[9.0.6, )"
+              "version": "[8.0.5, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[9.0.6, )"
+              "version": "[8.0.5, )"
             },
             "Microsoft.AspNetCore.SignalR": {
               "target": "Package",
@@ -65,13 +65,13 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.6, )"
+              "version": "[8.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.6, )"
+              "version": "[8.0.5, )"
             }
           },
           "imports": [
